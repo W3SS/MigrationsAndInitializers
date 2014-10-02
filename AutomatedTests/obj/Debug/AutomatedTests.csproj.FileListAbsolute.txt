@@ -1,0 +1,14 @@
+D:\PSOD Camtasia\EF6\Mod 8 Migrations\More Demos\MigrationsAndInitializers\AutomatedTests\obj\Debug\AutomatedTests.csprojResolveAssemblyReference.cache
+D:\PSOD Camtasia\EF6\Mod 8 Migrations\More Demos\MigrationsAndInitializers\AutomatedTests\bin\Debug\AutomatedTests.dll.config
+D:\PSOD Camtasia\EF6\Mod 8 Migrations\More Demos\MigrationsAndInitializers\AutomatedTests\bin\Debug\AutomatedTests.dll
+D:\PSOD Camtasia\EF6\Mod 8 Migrations\More Demos\MigrationsAndInitializers\AutomatedTests\bin\Debug\AutomatedTests.pdb
+D:\PSOD Camtasia\EF6\Mod 8 Migrations\More Demos\MigrationsAndInitializers\AutomatedTests\bin\Debug\DomainClasses.dll
+D:\PSOD Camtasia\EF6\Mod 8 Migrations\More Demos\MigrationsAndInitializers\AutomatedTests\bin\Debug\EntityFramework.dll
+D:\PSOD Camtasia\EF6\Mod 8 Migrations\More Demos\MigrationsAndInitializers\AutomatedTests\bin\Debug\EntityFramework.SqlServer.dll
+D:\PSOD Camtasia\EF6\Mod 8 Migrations\More Demos\MigrationsAndInitializers\AutomatedTests\bin\Debug\NinjaApp.DataLayer.dll
+D:\PSOD Camtasia\EF6\Mod 8 Migrations\More Demos\MigrationsAndInitializers\AutomatedTests\bin\Debug\DomainClasses.pdb
+D:\PSOD Camtasia\EF6\Mod 8 Migrations\More Demos\MigrationsAndInitializers\AutomatedTests\bin\Debug\NinjaApp.DataLayer.pdb
+D:\PSOD Camtasia\EF6\Mod 8 Migrations\More Demos\MigrationsAndInitializers\AutomatedTests\bin\Debug\EntityFramework.xml
+D:\PSOD Camtasia\EF6\Mod 8 Migrations\More Demos\MigrationsAndInitializers\AutomatedTests\bin\Debug\EntityFramework.SqlServer.xml
+D:\PSOD Camtasia\EF6\Mod 8 Migrations\More Demos\MigrationsAndInitializers\AutomatedTests\obj\Debug\AutomatedTests.dll
+D:\PSOD Camtasia\EF6\Mod 8 Migrations\More Demos\MigrationsAndInitializers\AutomatedTests\obj\Debug\AutomatedTests.pdb

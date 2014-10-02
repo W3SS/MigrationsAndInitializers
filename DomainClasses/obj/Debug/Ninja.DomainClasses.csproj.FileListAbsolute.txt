@@ -1,0 +1,14 @@
+D:\PSOD Camtasia\EF6\Module 5 Code FIrst & Migrations\NewEF6Project Module 5\DomainClasses\obj\Debug\Ninja.DomainClasses.csprojResolveAssemblyReference.cache
+D:\PSOD Camtasia\EF6\Module 5 Code FIrst & Migrations\NewEF6Project Module 5\DomainClasses\obj\Debug\DomainClasses.dll
+D:\PSOD Camtasia\EF6\Module 5 Code FIrst & Migrations\NewEF6Project Module 5\DomainClasses\obj\Debug\DomainClasses.pdb
+D:\PSOD Camtasia\EF6\Module 5 Code FIrst & Migrations\NewEF6Project Module 5\DomainClasses\bin\Debug\DomainClasses.dll
+D:\PSOD Camtasia\EF6\Module 5 Code FIrst & Migrations\NewEF6Project Module 5\DomainClasses\bin\Debug\DomainClasses.pdb
+D:\PSOD Camtasia\EF6\Module 5 Code FIrst & Migrations\NewEF6Project Module 5\DomainClasses\bin\Debug\CommonLibrary.dll
+D:\PSOD Camtasia\EF6\Module 5 Code FIrst & Migrations\NewEF6Project Module 5\DomainClasses\bin\Debug\CommonLibrary.pdb
+D:\PSOD Camtasia\EF6\Module 5 Code FIrst and Migrations\NewEF6Project Module 5\DomainClasses\bin\Debug\DomainClasses.dll
+D:\PSOD Camtasia\EF6\Module 5 Code FIrst and Migrations\NewEF6Project Module 5\DomainClasses\bin\Debug\DomainClasses.pdb
+D:\PSOD Camtasia\EF6\Module 5 Code FIrst and Migrations\NewEF6Project Module 5\DomainClasses\bin\Debug\CommonLibrary.dll
+D:\PSOD Camtasia\EF6\Module 5 Code FIrst and Migrations\NewEF6Project Module 5\DomainClasses\bin\Debug\CommonLibrary.pdb
+D:\PSOD Camtasia\EF6\Module 5 Code FIrst and Migrations\NewEF6Project Module 5\DomainClasses\obj\Debug\DomainClasses.dll
+D:\PSOD Camtasia\EF6\Module 5 Code FIrst and Migrations\NewEF6Project Module 5\DomainClasses\obj\Debug\DomainClasses.pdb
+D:\PSOD Camtasia\EF6\Module 5 Code FIrst and Migrations\NewEF6Project Module 5\DomainClasses\obj\Debug\Ninja.DomainClasses.csprojResolveAssemblyReference.cache

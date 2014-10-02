@@ -1,0 +1,45 @@
+D:\PSOD Camtasia\EF6\Module 5 Code FIrst and Migrations\NewEF6Project Module 5\DomainClasses\bin\Debug\DomainClasses.dll
+D:\PSOD Camtasia\EF6\Module 5 Code FIrst and Migrations\NewEF6Project Module 5\DomainClasses\bin\Debug\DomainClasses.pdb
+D:\PSOD Camtasia\EF6\Module 5 Code FIrst and Migrations\NewEF6Project Module 5\DomainClasses\bin\Debug\CommonLibrary.dll
+D:\PSOD Camtasia\EF6\Module 5 Code FIrst and Migrations\NewEF6Project Module 5\DomainClasses\bin\Debug\CommonLibrary.pdb
+D:\PSOD Camtasia\EF6\Module 5 Code FIrst and Migrations\NewEF6Project Module 5\DomainClasses\obj\Debug\NinjaApp.DomainClasses.csprojResolveAssemblyReference.cache
+D:\PSOD Camtasia\EF6\Module 5 Code FIrst and Migrations\NewEF6Project Module 5\DomainClasses\obj\Debug\DomainClasses.dll
+D:\PSOD Camtasia\EF6\Module 5 Code FIrst and Migrations\NewEF6Project Module 5\DomainClasses\obj\Debug\DomainClasses.pdb
+D:\PSOD Camtasia\EF6\Module 5 Code FIrst and Migrations\AFTER NewEF6Project Module 5\DomainClasses\bin\Debug\DomainClasses.dll
+D:\PSOD Camtasia\EF6\Module 5 Code FIrst and Migrations\AFTER NewEF6Project Module 5\DomainClasses\bin\Debug\DomainClasses.pdb
+D:\PSOD Camtasia\EF6\Module 5 Code FIrst and Migrations\AFTER NewEF6Project Module 5\DomainClasses\bin\Debug\CommonLibrary.dll
+D:\PSOD Camtasia\EF6\Module 5 Code FIrst and Migrations\AFTER NewEF6Project Module 5\DomainClasses\bin\Debug\CommonLibrary.pdb
+D:\PSOD Camtasia\EF6\Module 5 Code FIrst and Migrations\AFTER NewEF6Project Module 5\DomainClasses\obj\Debug\NinjaApp.DomainClasses.csprojResolveAssemblyReference.cache
+D:\PSOD Camtasia\EF6\Module 5 Code FIrst and Migrations\AFTER NewEF6Project Module 5\DomainClasses\obj\Debug\DomainClasses.dll
+D:\PSOD Camtasia\EF6\Module 5 Code FIrst and Migrations\AFTER NewEF6Project Module 5\DomainClasses\obj\Debug\DomainClasses.pdb
+D:\PSOD Camtasia\EF6\module 7 more code first\AFTER NewEF6Project Module 5\DomainClasses\bin\Debug\DomainClasses.dll
+D:\PSOD Camtasia\EF6\module 7 more code first\AFTER NewEF6Project Module 5\DomainClasses\bin\Debug\DomainClasses.pdb
+D:\PSOD Camtasia\EF6\module 7 more code first\AFTER NewEF6Project Module 5\DomainClasses\bin\Debug\CommonLibrary.dll
+D:\PSOD Camtasia\EF6\module 7 more code first\AFTER NewEF6Project Module 5\DomainClasses\bin\Debug\CommonLibrary.pdb
+D:\PSOD Camtasia\EF6\module 7 more code first\AFTER NewEF6Project Module 5\DomainClasses\obj\Debug\DomainClasses.dll
+D:\PSOD Camtasia\EF6\module 7 more code first\AFTER NewEF6Project Module 5\DomainClasses\obj\Debug\DomainClasses.pdb
+D:\PSOD Camtasia\EF6\module 7 more code first\AFTER NewEF6Project Module 5\DomainClasses\bin\Debug\DomainClasses.dll.config
+D:\PSOD Camtasia\EF6\module 7 more code first\AFTER NewEF6Project Module 5\DomainClasses\bin\Debug\EntityFramework.dll
+D:\PSOD Camtasia\EF6\module 7 more code first\AFTER NewEF6Project Module 5\DomainClasses\bin\Debug\EntityFramework.SqlServer.dll
+D:\PSOD Camtasia\EF6\module 7 more code first\AFTER NewEF6Project Module 5\DomainClasses\bin\Debug\EntityFramework.xml
+D:\PSOD Camtasia\EF6\module 7 more code first\AFTER NewEF6Project Module 5\DomainClasses\bin\Debug\EntityFramework.SqlServer.xml
+D:\PSOD Camtasia\EF6\module 7 more code first\AFTER NewEF6Project Module 5\DomainClasses\obj\Debug\NinjaApp.DomainClasses.csprojResolveAssemblyReference.cache
+D:\PSOD Camtasia\EF6\Mod 8 Migrations\Module 8 Migrations Demo\DomainClasses\obj\Debug\DomainClasses.dll
+D:\PSOD Camtasia\EF6\Mod 8 Migrations\Module 8 Migrations Demo\DomainClasses\obj\Debug\DomainClasses.pdb
+D:\PSOD Camtasia\EF6\Mod 8 Migrations\Module 8 Migrations Demo\DomainClasses\bin\Debug\DomainClasses.dll
+D:\PSOD Camtasia\EF6\Mod 8 Migrations\Module 8 Migrations Demo\DomainClasses\bin\Debug\DomainClasses.pdb
+D:\PSOD Camtasia\EF6\Mod 8 Migrations\Module 8 Migrations Demo\DomainClasses\bin\Debug\CommonLibrary.dll
+D:\PSOD Camtasia\EF6\Mod 8 Migrations\Module 8 Migrations Demo\DomainClasses\bin\Debug\EntityFramework.dll
+D:\PSOD Camtasia\EF6\Mod 8 Migrations\Module 8 Migrations Demo\DomainClasses\bin\Debug\EntityFramework.SqlServer.dll
+D:\PSOD Camtasia\EF6\Mod 8 Migrations\Module 8 Migrations Demo\DomainClasses\bin\Debug\CommonLibrary.pdb
+D:\PSOD Camtasia\EF6\Mod 8 Migrations\Module 8 Migrations Demo\DomainClasses\bin\Debug\EntityFramework.xml
+D:\PSOD Camtasia\EF6\Mod 8 Migrations\Module 8 Migrations Demo\DomainClasses\bin\Debug\EntityFramework.SqlServer.xml
+D:\PSOD Camtasia\EF6\Mod 8 Migrations\Module 8 Migrations Demo\DomainClasses\obj\Debug\NinjaApp.DomainClasses.csprojResolveAssemblyReference.cache
+D:\PSOD Camtasia\EF6\Mod 8 Migrations\More Demos\MultipleContextsInSingleProject\DomainClasses\bin\Debug\DomainClasses.dll
+D:\PSOD Camtasia\EF6\Mod 8 Migrations\More Demos\MultipleContextsInSingleProject\DomainClasses\bin\Debug\DomainClasses.pdb
+D:\PSOD Camtasia\EF6\Mod 8 Migrations\More Demos\MultipleContextsInSingleProject\DomainClasses\obj\Debug\DomainClasses.dll
+D:\PSOD Camtasia\EF6\Mod 8 Migrations\More Demos\MultipleContextsInSingleProject\DomainClasses\obj\Debug\DomainClasses.pdb
+D:\PSOD Camtasia\EF6\Mod 8 Migrations\More Demos\MigrationsAndInitializers\DomainClasses\bin\Debug\DomainClasses.dll
+D:\PSOD Camtasia\EF6\Mod 8 Migrations\More Demos\MigrationsAndInitializers\DomainClasses\bin\Debug\DomainClasses.pdb
+D:\PSOD Camtasia\EF6\Mod 8 Migrations\More Demos\MigrationsAndInitializers\DomainClasses\obj\Debug\DomainClasses.dll
+D:\PSOD Camtasia\EF6\Mod 8 Migrations\More Demos\MigrationsAndInitializers\DomainClasses\obj\Debug\DomainClasses.pdb

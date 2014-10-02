@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NinjaApp.DomainClasses", "DomainClasses\NinjaApp.DomainClasses.csproj", "{28908D2B-6B3C-4536-83A2-12604EC0E27B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NinjaApp.DataLayer", "NinjaApp.DataLayer\NinjaApp.DataLayer.csproj", "{64CD9FD1-CB7A-4CBD-873C-79CC9B4ABB17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomatedTests", "AutomatedTests\AutomatedTests.csproj", "{F770F638-B60E-40E9-99C6-8B1C907FEE62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28908D2B-6B3C-4536-83A2-12604EC0E27B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28908D2B-6B3C-4536-83A2-12604EC0E27B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28908D2B-6B3C-4536-83A2-12604EC0E27B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28908D2B-6B3C-4536-83A2-12604EC0E27B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64CD9FD1-CB7A-4CBD-873C-79CC9B4ABB17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64CD9FD1-CB7A-4CBD-873C-79CC9B4ABB17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64CD9FD1-CB7A-4CBD-873C-79CC9B4ABB17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64CD9FD1-CB7A-4CBD-873C-79CC9B4ABB17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F770F638-B60E-40E9-99C6-8B1C907FEE62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F770F638-B60E-40E9-99C6-8B1C907FEE62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F770F638-B60E-40E9-99C6-8B1C907FEE62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F770F638-B60E-40E9-99C6-8B1C907FEE62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

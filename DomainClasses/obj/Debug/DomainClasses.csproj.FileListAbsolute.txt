@@ -1,0 +1,4 @@
+E:\Documents\Visual Studio 2010\Projects\PSOD\EF6\Module1\NewEF6Project\DomainClasses\bin\Debug\DomainClasses.dll
+E:\Documents\Visual Studio 2010\Projects\PSOD\EF6\Module1\NewEF6Project\DomainClasses\bin\Debug\DomainClasses.pdb
+E:\Documents\Visual Studio 2010\Projects\PSOD\EF6\Module1\NewEF6Project\DomainClasses\obj\Debug\DomainClasses.dll
+E:\Documents\Visual Studio 2010\Projects\PSOD\EF6\Module1\NewEF6Project\DomainClasses\obj\Debug\DomainClasses.pdb
